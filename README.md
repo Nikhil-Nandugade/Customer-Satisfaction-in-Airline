@@ -8,7 +8,7 @@
 -Data preprocessing
 -Exploratory Data Analysis, Data Visualization, Insights discovery
 -Model Selection
-Logistic Regression, Naive Bayes, K-Nearest Neighbour, Support Vector Machine
+Logistic Regression, Decision Tree, Random Forest, Support Vector Machine
 -Model Evaluation
 -Hyperparameter Tuning
 
