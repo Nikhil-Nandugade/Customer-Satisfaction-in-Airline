@@ -8,9 +8,9 @@
 -Data preprocessing
 -Exploratory Data Analysis, Data Visualization, Insights discovery
 -Model Selection
-kmeans, Elbow Method
+Logistic Regression, Naive Bayes, K-Nearest Neighbour, Support Vector Machine
 -Model Evaluation
--Performance Measures
+-Hyperparameter Tuning
 
 
 # Softeares and Libraries used
